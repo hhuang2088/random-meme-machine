@@ -1,0 +1,8 @@
+body {
+	background-color: white;
+	transition: background-color 700ms ease-in-out;
+}
+
+#memeImage {
+	width: 100%;
+}
